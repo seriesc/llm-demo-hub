@@ -1,2 +1,2 @@
 # llm-demo-hub
-LLM全流程模板示例，直接运行，快速上手。
+LLM full process templates/examples/demos, run directly, and get started quickly.
